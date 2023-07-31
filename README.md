@@ -4,7 +4,6 @@
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/emanuelsoares_7?igshid=OGQ5ZDc2ODk2ZA==)
 
 ![Emanuel GitHub stats](https://github-readme-stats.vercel.app/api?username=emanuelsoares07&show_icons=true&theme=tokyonight)
-
 ## Tecnologias que eu uso no meu dia a dia
 
 <div style="display: inline_block"><br/>
