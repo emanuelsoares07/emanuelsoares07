@@ -1,7 +1,7 @@
 ### Olá! Eu sou Emanuel Soares ✋ 
 
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/emanuel-soares-dos-anjos-302031203)
-[![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([linkedin.com/in/emanuel-soares-dos-anjos-302031203](https://instagram.com/emanuelsoares_7?igshid=OGQ5ZDc2ODk2ZA==))
+[![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/emanuelsoares_7?igshid=OGQ5ZDc2ODk2ZA==)
 
 ![Emanuel GitHub stats](https://github-readme-stats.vercel.app/api?username=emanuelsoares07&show_icons=true&theme=tokyonight)
 
